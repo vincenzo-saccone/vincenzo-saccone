@@ -8,8 +8,6 @@ I work on **web platforms** — social apps, ecommerce, moderation systems — a
 
 I don't just write code: I make architectural decisions on databases, system design, and technology choices. Currently studying **Computer Engineering (AI curriculum)** to go deeper on the infrastructure behind the models I work with every day.
 
----
-
 ### 🛠 What I work with
 
 **Core stack**
@@ -35,7 +33,14 @@ I don't just write code: I make architectural decisions on databases, system des
 
 ![Claude](https://img.shields.io/badge/Claude_Code-D97757?style=flat&logo=anthropic&logoColor=white)
 
----
+**Also worked with**
+
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat&logo=laravel&logoColor=white)
+![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=flat&logo=vuedotjs&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind-06B6D4?style=flat&logo=tailwindcss&logoColor=white)
 
 ### 🔨 What I've built
 
@@ -44,15 +49,11 @@ I don't just write code: I make architectural decisions on databases, system des
 - **RAG systems** — document ingestion, embedding pipelines, LLM integration for internal tooling
 - And more...
 
----
-
 ### 📖 Currently
 
 - Deepening **cloud infrastructure** (GCP, Terraform, Cloud Run)
 - Studying **AI system design** — evals, observability, retrieval patterns
 - Writing about the architectural problems I solve at work
-
----
 
 ### 🔗 Find me
 
