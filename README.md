@@ -3,7 +3,7 @@
 
 <br/>
 
-I'm a freelance developer with ~2 years of experience, based in Sicily 🇮🇹.
+I'm a developer with 2 years of experience, based in Sicily 🇮🇹.
 I work on **web platforms** — social apps, ecommerce, moderation systems — and I'm increasingly focused on **integrating AI** into real products, not just prototypes.
 
 I don't just write code: I make architectural decisions on databases, system design, and technology choices. Currently studying **Computer Engineering (AI curriculum)** to go deeper on the infrastructure behind the models I work with every day.
