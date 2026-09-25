@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Vincenzo</h1>
-<h3 align="center">Freelance Full Stack Developer · Building web systems and AI-integrated products</h3>
+<h3 align="center">Full Stack Developer · Building web systems and AI-integrated products</h3>
 
 <br/>
 
